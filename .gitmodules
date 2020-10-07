@@ -9,3 +9,7 @@
 	path = src/llvm-project
 	url = https://github.com/gattaca-lab/llvm-project
 	branch = riscv_asan_pushed
+[submodule "src/linux"]
+	path = src/linux
+	url = https://github.com/gattaca-lab/linux
+	branch = riscv_asan_pushed
