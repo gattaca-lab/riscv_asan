@@ -17,3 +17,7 @@
 	path = src/qemu
 	url = https://github.com/gattaca-lab/qemu
 	branch = riscv_asan_pushed
+[submodule "src/gcc_native"]
+	path = src/gcc_native
+	url = https://github.com/gcc-mirror/gcc
+	branch = releases/gcc-10
