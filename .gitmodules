@@ -5,3 +5,7 @@
 [submodule "src/buildroot"]
 	path = src/buildroot
 	url = git://git.busybox.net/buildroot
+[submodule "src/llvm-project"]
+	path = src/llvm-project
+	url = https://github.com/gattaca-lab/llvm-project
+	branch = riscv_asan_pushed
