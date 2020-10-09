@@ -19,6 +19,7 @@ To build Linux/QEMU/Buildroot/Cross-toolchains:
 
 ```
 CPU_NUM=<n> ./build.sh target all
+```
 
 To build native LLVM toolchain:
 
